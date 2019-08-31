@@ -1,6 +1,6 @@
 Name     : mvn-ow2
 Version  : 6.1.1
-Release  : 1
+Release  : 2
 URL      : https://projects.ow2.org
 Source0  : https://repo1.maven.org/maven2/org/ow2/ow2/1.3/ow2-1.3.pom
 Source1  : https://repo1.maven.org/maven2/org/ow2/ow2/1.5/ow2-1.5.pom
